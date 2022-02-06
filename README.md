@@ -1,2 +1,1 @@
-# app-server-1
- 
+internal server to serve our app images
